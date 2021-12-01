@@ -29,6 +29,5 @@ public class Main {
         for (int i = 0; i < singleCat.length; i++) {
             System.out.println("Кот " + singleCat[i].name + ", сытость: " + singleCat[i].fedUp);
         }
-
     }
 }
